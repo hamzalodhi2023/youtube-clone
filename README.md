@@ -31,7 +31,8 @@ Feel free to explore the project and share your thoughts. It's a testament to my
 
 Launch the index.html file in your web browser.
 
-Contact
+## Contact
+
 GitHub: hamzalodhi2023
 Email: [hamzalodhi2023@gmil.com]
 Thank you for checking out my YouTube Clone project!
