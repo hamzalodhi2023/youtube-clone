@@ -35,5 +35,5 @@ Launch the index.html file in your web browser.
 ## Contact
 
 GitHub: hamzalodhi2023
-Email: [hamzalodhi2023@gmil.com]
+Email: [hamzalodhi2023@gmail.com]
 Thank you for checking out my YouTube Clone project!
