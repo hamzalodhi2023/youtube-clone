@@ -26,8 +26,9 @@ Feel free to explore the project and share your thoughts. It's a testament to my
 
    ```bash
    git clone https://github.com/hamzalodhi2023/YouTube-Clone.git
-   Open the project folder in your code editor.
    ```
+
+   Open the project folder in your code editor.
 
 Launch the index.html file in your web browser.
 
